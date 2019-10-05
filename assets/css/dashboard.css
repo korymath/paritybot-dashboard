@@ -9839,7 +9839,7 @@ a.text-dark:hover, a.text-dark:focus {
   .table, .text-wrap table {
     border-collapse: collapse !important;
   }
-  
+
   .table td,
   .text-wrap table td, .table th, .text-wrap table th {
     background-color: #fff !important;
@@ -18607,4 +18607,13 @@ svg {
 
 .fe-zoom-out:before {
   content: "\ea06";
+}
+
+
+.text-right {
+  display: none;
+}
+
+.mb-4, .my-4 {
+  margin-bottom: 0 !important;
 }
